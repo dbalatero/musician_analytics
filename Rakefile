@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "musician_analytics"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Provides tools for programmer/musicians to quickly collect stats about their band.}
+    gem.description = %Q{I wrote this quick library for aggregating analytics for my band, Operation ID. I wanted to track Last.fm, Twitter, and Myspace interactions over time. You might want to do this too!}
     gem.email = "dbalatero@gmail.com"
     gem.homepage = "http://github.com/dbalatero/musician_analytics"
     gem.authors = ["David Balatero"]
