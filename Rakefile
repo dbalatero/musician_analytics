@@ -12,6 +12,7 @@ begin
     gem.authors = ["David Balatero"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
     gem.add_dependency 'monster_mash'
+    gem.add_dependency 'json'
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new
