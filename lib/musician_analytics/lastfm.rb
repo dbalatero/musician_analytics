@@ -9,7 +9,7 @@ module MusicianAnalytics
       params :format => 'json'
     end
 
-    get(:get_counts) do |artist|
+    get(:get_stats) do |artist|
       uri "http://ws.audioscrobbler.com/2.0/"
       params :method => 'artist.getInfo',
              :artist => artist,
