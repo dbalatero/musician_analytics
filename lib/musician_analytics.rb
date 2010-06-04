@@ -1,8 +1,9 @@
 require 'monster_mash'
+require 'json'
 
 $LOAD_PATH.unshift(File.expand_path(File.dirname(__FILE__)))
 
-%w(myspace).each do |file|
+%w(myspace twitter).each do |file|
   require "musician_analytics/#{file}"
 end
 
