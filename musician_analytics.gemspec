@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
      "lib/musician_analytics/lastfm.rb",
      "lib/musician_analytics/myspace.rb",
      "lib/musician_analytics/twitter.rb",
+     "musician_analytics.gemspec",
      "spec/musician_analytics/lastfm_spec.rb",
      "spec/musician_analytics/myspace_spec.rb",
      "spec/musician_analytics/twitter_spec.rb",

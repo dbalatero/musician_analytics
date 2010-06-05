@@ -1,7 +1,7 @@
 musician_analytics
 ==================
 
-I wrote this quick library for aggregating analytics for my band, [Operation ID](http://opidmusic.com). I wanted to track Last.fm, Twitter, and Myspace interactions over time. You might want to do this too!
+I wrote this quick library for aggregating analytics for my band, [Operation ID](http://opidmusic.com). I want to track Last.fm, Twitter, and Myspace interactions over time, so that I can see how well our promotion campaigns are doing over time, over multiple social networks. You might want to do this too!
 
 Coming soon: a small web app for storing/aggregating these stats.
 
