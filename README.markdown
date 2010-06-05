@@ -5,6 +5,8 @@ I wrote this quick library for aggregating analytics for my band, [Operation ID]
 
 Coming soon: a small web app for storing/aggregating these stats.
 
+To get up and running on Heroku in 5 minutes collecting stats for your band, check out my [Rails app](http://github.com/dbalatero/musician_analytics_app)
+
 Usage
 -----
 
